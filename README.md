@@ -1,5 +1,6 @@
 <h1> Credit Card Behivor Clustering </h1>
 
+<img width="1193" alt="Captura de pantalla 2022-11-21 a las 16 59 35" src="https://user-images.githubusercontent.com/102376016/203515443-7f71cd6b-8c8e-4da5-b4a8-351bf35f23b2.png">
 
 # Readme
 
